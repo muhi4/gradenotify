@@ -5,9 +5,9 @@ gradenotify
 
 使い方  
 1."linetoken.txt"をgradenotify.pyと同じディレクトリ内に作成する。  
-2.LINENotify(https://notify-bot.line.me/ja/)でlineログイン、登録してトークンをlinetoken.txtの最初の行にコピペ。  
+2.LINENotify(https://notify-bot.line.me/ja/ )でlineログイン、登録してトークンをlinetoken.txtの最初の行にコピペ。  
 3.必要な環境を構築。requirements.txtに必要なモジュール、動作確認済みバージョンを記載。  
-4.google chromeと対応するバージョンのchromedriver(https://chromedriver.chromium.org/downloads)をダウンロード。  
+4.google chromeと対応するバージョンのchromedriver(https://chromedriver.chromium.org/downloads )をダウンロード。  
   chrimedriverを置くディレクトリパスはgradenotify.py内のgetseisekifromweb関数の"driverpath="の部分で定義されている。  
   raspberrypiで実行する場合、ドライバーの入手法が異なる(下に別途記載)。  
 5.$python gradenotify.pyを実行。IDとパスワードを入力する。  
