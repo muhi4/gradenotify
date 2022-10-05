@@ -20,10 +20,10 @@ raspberrypiでのドライバ入手法
   
 ファイル、フォルダの説明  
 oldversion：旧バージョンの本体、使用していたファイルを格納。  
-gradenotify.yml：必要なモジュールを記載。  
+requirements.txt：必要なモジュールを記載。  
 grade.csv：確認済み成績。証明書発行システムから引っ張ってきた成績と比較するためのもの。  
 linetoken.txt:lineのトークンを保存するファイル。トークン以外は何も書かないように注意。  
-readme.txt：この説明ファイル。  
+README.md：この説明ファイル。  
   
 
 バージョン履歴  
