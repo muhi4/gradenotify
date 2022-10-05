@@ -1,5 +1,5 @@
-directory-__pycache__/
-directory-.gradenotify/
+__pycache__/
+.gradenotify/
 
-file-grade.csv
-/file-linetoken.txt
+grade.csv
+linetoken.txt
